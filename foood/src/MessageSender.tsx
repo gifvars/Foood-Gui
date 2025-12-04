@@ -49,4 +49,3 @@ const MessageSender: React.FC = () => {
 };
 
 export default MessageSender;
-``
